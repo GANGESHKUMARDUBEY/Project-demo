@@ -1,4 +1,4 @@
 # Project-demo
 This is My First Git Repository
 <br>
-Author-Gangesh Dubey
+Author-Gangesh (Kr. Dubey)
